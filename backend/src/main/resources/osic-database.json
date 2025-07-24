@@ -1,0 +1,28 @@
+[
+  {
+    "Customer_ID": "CUST001",
+    "Name": "John Doe",
+    "Date_of_Birth": "1985-07-15",
+    "Address": "123 Baker Street, London",
+    "Title": "Mr",
+    "Deceased_Flag": false,
+    "National_ID": "QQ123456C",
+    "Product_Type": "Savings",
+    "Relationship_Type": "Primary",
+    "Update_Function": "Insert",
+    "Key_Org": "BANK123"
+  },
+  {
+    "Customer_ID": "CUST002",
+    "Name": "Sarah Morgan",
+    "Date_of_Birth": "1976-03-11",
+    "Address": "45 Oxford Street, Manchester",
+    "Title": "Ms",
+    "Deceased_Flag": false,
+    "National_ID": "AB987654Z",
+    "Product_Type": "Mortgage",
+    "Relationship_Type": "Joint",
+    "Update_Function": "Update",
+    "Key_Org": "BANK456"
+  }
+]
